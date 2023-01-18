@@ -46,7 +46,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_202\jre"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.2.2 test"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.2.2 clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -63,8 +63,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="getCounterListTest2" classname="CountCountrollerTest" time="0.003"/>
-  <testcase name="getCounterValueTest1" classname="CountCountrollerTest" time="0"/>
+  <testcase name="getCounterListTest2" classname="CountCountrollerTest" time="0.002"/>
+  <testcase name="getCounterValueTest1" classname="CountCountrollerTest" time="0.001"/>
   <testcase name="getCounterValueTest2" classname="CountCountrollerTest" time="0"/>
   <testcase name="incrementCounterTest1" classname="CountCountrollerTest" time="0"/>
   <testcase name="incrementCounterTest2" classname="CountCountrollerTest" time="0"/>

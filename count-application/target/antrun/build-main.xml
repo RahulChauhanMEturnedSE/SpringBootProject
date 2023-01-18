@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip destfile="D:\spring\mavenProject\count-application\target/app.zip">
+    <zipfileset dir="D:\spring\mavenProject\count-application\target/docker"/>
+    <zipfileset includes="count-application.jar" dir="D:\spring\mavenProject\count-application\target"/>
+  </zip>
+</target>
+</project>

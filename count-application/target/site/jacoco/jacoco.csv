@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Spring Boot Counter Application,com.codetest.springboot.countApplication.count_application,CountController,0,57,0,8,0,15,0,9,0,5
+Spring Boot Counter Application,com.codetest.springboot.countApplication.count_application,App,8,0,0,0,3,0,2,0,2,0
+Spring Boot Counter Application,com.codetest.springboot.countApplication.count_application,LocalStorage,3,5,0,0,1,1,1,1,1,1
